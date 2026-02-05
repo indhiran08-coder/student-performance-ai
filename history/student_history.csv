@@ -1,5 +1,5 @@
 Attendance,StudyHours,InternalMarks,PredictedMarks,Risk,Grade
-95,3,20,75.19,LOW RISK,A
+95,3,20,75.19,LOW RISK !,A
 70,2,20,62.23,Moderate academic risk,C
 70,2,20,62.23,Moderate academic risk,C
 70,5,20,66.81,Moderate academic risk,B
@@ -19,3 +19,4 @@ Attendance,StudyHours,InternalMarks,PredictedMarks,Risk,Grade
 98,2,27,81.62,LOW,A
 75,2,20,65.0,MEDIUM,C
 75,2,20,65.0,MEDIUM,C
+
