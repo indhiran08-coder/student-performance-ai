@@ -20,19 +20,19 @@ st.set_page_config(
 st.markdown("""
 <style>
 
-/* ===== MAIN PAGE ===== */
+
 .block-container {
     padding-top: 2.5rem;
     max-width: 1300px;
 }
 
-/* ===== REMOVE DEFAULT SIDEBAR LOOK ===== */
+
 section[data-testid="stSidebar"] {
     background: transparent !important;
     border-right: none !important;
 }
 
-/* ===== CUSTOM CONTROL PANEL ===== */
+
 .control-panel {
     background: linear-gradient(180deg, #0f172a, #020617);
     border-radius: 22px;
@@ -59,13 +59,13 @@ section[data-testid="stSidebar"] {
     margin: 1.2rem 0;
 }
 
-/* ===== SIDEBAR LABELS ===== */
+
 section[data-testid="stSidebar"] label {
     color: #e5e7eb !important;
     font-weight: 600;
 }
 
-/* ===== SLIDER STYLE ===== */
+
 section[data-testid="stSidebar"] div[data-baseweb="slider"] {
     margin-top: 6px;
     margin-bottom: 18px;
